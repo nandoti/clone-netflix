@@ -1,3 +1,3 @@
 # Projeto de estudos
 
-##Clone do netflix usando ReactJS
+Clone do netflix usando ReactJS
